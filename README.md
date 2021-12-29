@@ -1,1 +1,1 @@
-This is an app made in VanillaJS .It is a game known as Tic Tac Toe
+This is a Tic Tac Toe game built using Vanilla JS.
